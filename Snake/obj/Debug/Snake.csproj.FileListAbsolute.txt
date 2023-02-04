@@ -1,0 +1,54 @@
+C:\Users\Damia\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Damia\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Damia\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\bin\Debug\Snake.exe.config
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\bin\Debug\Snake.exe
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\bin\Debug\Snake.pdb
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\obj\Debug\Snake.exe
+C:\Users\Igor\Desktop\ConsoleSnakeCSharp-master\Snake\obj\Debug\Snake.pdb
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\bin\Debug\Snake.exe.config
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\bin\Debug\Snake.exe
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\bin\Debug\Snake.pdb
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\obj\Debug\Snake.exe
+C:\Users\Igor\Desktop\Змейка где надо брать логику\Snake\obj\Debug\Snake.pdb
+C:\Users\Igor\Desktop\SnakeGame\Snake\bin\Debug\Snake.exe.config
+C:\Users\Igor\Desktop\SnakeGame\Snake\bin\Debug\Snake.exe
+C:\Users\Igor\Desktop\SnakeGame\Snake\bin\Debug\Snake.pdb
+C:\Users\Igor\Desktop\SnakeGame\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\SnakeGame\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Igor\Desktop\SnakeGame\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\SnakeGame\Snake\obj\Debug\Snake.exe
+C:\Users\Igor\Desktop\SnakeGame\Snake\obj\Debug\Snake.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\Snake.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\Snake.exe
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\bin\Debug\Snake.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\Snake.exe
+C:\Users\danil\OneDrive\Рабочий стол\Snake-master\Snake\obj\Debug\Snake.pdb
+C:\Users\1\Desktop\Змеюка блин\Snake\bin\Debug\Snake.exe.config
+C:\Users\1\Desktop\Змеюка блин\Snake\bin\Debug\Snake.exe
+C:\Users\1\Desktop\Змеюка блин\Snake\bin\Debug\Snake.pdb
+C:\Users\1\Desktop\Змеюка блин\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Змеюка блин\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\Змеюка блин\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Змеюка блин\Snake\obj\Debug\Snake.exe
+C:\Users\1\Desktop\Змеюка блин\Snake\obj\Debug\Snake.pdb
